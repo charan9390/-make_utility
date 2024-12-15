@@ -24,7 +24,6 @@ int main(){
 
 	
 }
-//Test the Git Workflow
 void check_format(int fd){
 	char buff[512]={0};
 	FILE *fp=fdopen(fd,"r");
